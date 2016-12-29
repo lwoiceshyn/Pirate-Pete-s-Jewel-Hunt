@@ -1,0 +1,17 @@
+C:\Users\Leo\documents\visual studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\bin\Debug\Mech 368 Creative Component - Leo Woiceshyn.exe
+C:\Users\Leo\documents\visual studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\bin\Debug\Mech 368 Creative Component - Leo Woiceshyn.pdb
+C:\Users\Leo\documents\visual studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Leo\documents\visual studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Leo\documents\visual studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Leo\documents\visual studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Leo\documents\visual studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\Mech 368 Creative Component - Leo Woiceshyn.exe
+C:\Users\Leo\documents\visual studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\Mech 368 Creative Component - Leo Woiceshyn.pdb
+C:\Users\Leo\documents\visual studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\WindowsFormsApplication1.myGame.resources
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\Mech 368 Creative Component - Leo Woiceshyn.exe
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\Mech 368 Creative Component - Leo Woiceshyn.pdb
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\bin\Debug\Mech 368 Creative Component - Leo Woiceshyn.exe
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\bin\Debug\Mech 368 Creative Component - Leo Woiceshyn.pdb
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\WindowsFormsApplication1.myGame.resources
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\Mech 368 Creative Component - Leo Woiceshyn.csprojResolveAssemblyReference.cache
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Mech 368 Creative Component - Leo Woiceshyn\Mech 368 Creative Component - Leo Woiceshyn\obj\x86\Debug\Mech 368 Creative Component - Leo Woiceshyn.csproj.GenerateResource.Cache

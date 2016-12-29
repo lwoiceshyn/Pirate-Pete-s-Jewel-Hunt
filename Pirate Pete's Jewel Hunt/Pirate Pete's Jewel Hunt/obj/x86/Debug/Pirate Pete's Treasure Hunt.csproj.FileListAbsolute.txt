@@ -1,0 +1,7 @@
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Pirate Pete's Treasure Hunt\Pirate Pete's Treasure Hunt\obj\x86\Debug\Mech 368 Creative Component - Leo Woiceshyn.exe
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Pirate Pete's Treasure Hunt\Pirate Pete's Treasure Hunt\obj\x86\Debug\Mech 368 Creative Component - Leo Woiceshyn.pdb
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Pirate Pete's Treasure Hunt\Pirate Pete's Treasure Hunt\bin\Debug\Mech 368 Creative Component - Leo Woiceshyn.exe
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Pirate Pete's Treasure Hunt\Pirate Pete's Treasure Hunt\bin\Debug\Mech 368 Creative Component - Leo Woiceshyn.pdb
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Pirate Pete's Treasure Hunt\Pirate Pete's Treasure Hunt\obj\x86\Debug\WindowsFormsApplication1.myGame.resources
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Pirate Pete's Treasure Hunt\Pirate Pete's Treasure Hunt\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\glenn\Documents\Visual Studio 2010\Projects\Pirate Pete's Treasure Hunt\Pirate Pete's Treasure Hunt\obj\x86\Debug\Pirate Pete's Treasure Hunt.csproj.GenerateResource.Cache
